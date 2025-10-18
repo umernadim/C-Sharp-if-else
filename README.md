@@ -70,8 +70,6 @@ The main goal of this practice was to strengthen the understanding of:
 
 ## ✨ Author
 
-Muhammad Umer
-C# Learner | Aspiring .NET Developer
+* Muhammad Umer
+* C# Learner | Aspiring .NET Developer
 
-
-Would you like me to make this README a bit **more creative and portfolio-friendly** (with emojis and a short personal intro like “Part of my C# learning journey”)?

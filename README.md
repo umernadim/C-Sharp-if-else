@@ -68,7 +68,7 @@ The main goal of this practice was to strengthen the understanding of:
 * Real-world logic implementation
 * Writing clean and efficient conditional code
 
-✨ Author
+## ✨ Author
 
 Muhammad Umer
 C# Learner | Aspiring .NET Developer
